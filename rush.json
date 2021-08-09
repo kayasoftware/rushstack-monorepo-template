@@ -30,5 +30,11 @@
     "postRushBuild": []
   },
   "telemetryEnabled": false,
-  "projects": []
+  "projects": [
+    {
+      "packageName": "heft-node-rig",
+      "projectFolder": "rigs/heft-node-rig",
+      "shouldPublish": false
+    }
+  ]
 }
