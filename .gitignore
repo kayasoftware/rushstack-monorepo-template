@@ -63,3 +63,17 @@ common/deploy/
 common/temp/
 common/autoinstallers/*/.npmrc
 **/.rush/temp/
+
+# Common toolchain intermediate files
+temp
+lib
+lib-amd
+lib-es6
+lib-esnext
+lib-commonjs
+dist
+*.scss.ts
+*.sass.ts
+
+# Heft
+.heft
