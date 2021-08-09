@@ -1,0 +1,20 @@
+{
+  "name": "heft-node-rig",
+  "version": "1.0.0",
+  "license": "UNLICENSED",
+  "private": true,
+  "scripts": {
+    "build": ""
+  },
+  "peerDependencies": {
+    "@rushstack/heft": "~0.35.0"
+  },
+  "dependencies": {
+    "typescript": "~4.3.5",
+    "eslint": "~7.32.0",
+    "@rushstack/heft-jest-plugin": "~0.1.15"
+  },
+  "devDependencies": {
+    "@rushstack/heft": "~0.35.0"
+  }
+}
