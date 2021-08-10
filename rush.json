@@ -32,6 +32,11 @@
   "telemetryEnabled": false,
   "projects": [
     {
+      "packageName": "@kayasoftware/sample-app",
+      "projectFolder": "apps/sample-app",
+      "shouldPublish": false
+    },
+    {
       "packageName": "@kayasoftware/heft-node-rig",
       "projectFolder": "rigs/heft-node-rig",
       "shouldPublish": false
